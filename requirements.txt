@@ -1,0 +1,6 @@
+pi-heaan==0.4.1
+tkinter
+numpy==1.24.3
+matplotlib==3.7.1
+pandas==2.0.3
+Pillow==10.0.0
